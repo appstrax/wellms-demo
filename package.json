@@ -64,7 +64,8 @@
     "styled-components": "^5.3.5",
     "swiper": "^11.0.6",
     "vite-tsconfig-paths": "^4.3.1",
-    "webfontloader": "^1.6.28"
+    "webfontloader": "^1.6.28",
+    "husky": "^7.0.2"
   },
   "scripts": {
     "start": " vite",
